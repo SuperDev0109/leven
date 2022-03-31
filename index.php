@@ -70,13 +70,13 @@
                         <div class="main-menu-wrapper__logo">
                             <a href="index.html"><img src="assets/custom/img/logo.png" alt=""></a>
                         </div>
-                        <div class="main-menu-wrapper__search-box">
+                        <!-- <div class="main-menu-wrapper__search-box">
                             <a href="#" class="main-menu-wrapper__search search-toggler icon-magnifying-glass"></a>
-                        </div>
+                        </div> -->
                         <div class="main-menu-wrapper__social">
-                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
                             <a href="#" class="clr-fb"><i class="fab fa-facebook"></i></a>
-                            <a href="#" class="clr-dri"><i class="fab fa-pinterest-p"></i></a>
+                            <!-- <a href="#" class="clr-dri"><i class="fab fa-pinterest-p"></i></a> -->
                             <a href="#" class="clr-ins"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Pages</a>
+                                <a href="#">Projects</a>
                                 <ul>
                                     <li><a href="about.html">About</a></li>
                                     <li><a href="about-me.html">About me <span class="new-tag">new</span></a></li>
@@ -135,7 +135,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Portfolio</a>
+                                <a href="#">About</a>
                                 <ul>
                                     <li><a href="portfolio.html">Portfolio</a></li>
                                     <li><a href="portfolio-detail.html">Portfolio details</a></li>
@@ -143,7 +143,7 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="products.html">Shop</a>
+                                <a href="products.html">Contact us</a>
                                 <ul>
                                     <li><a href="products.html">Shop</a></li>
                                     <li><a href="product-details.html">Product Details</a></li>
@@ -152,22 +152,8 @@
                                     <li><a href="login.html">Login Page</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
-                                <a href="#">Blog</a>
-                                <ul>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li class="dropdown">
-                                        <a href="blog-sidebar.html">Blog sidebar <span class="new-tag">new</span></a>
-                                        <ul>
-                                            <li><a href="blog-sidebar-left.html">Blog left sidebar <span
-                                                        class="new-tag">new</span></a></li>
-                                            <li><a href="blog-sidebar.html">Blog right sidebar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="blog-details.html">Blog details</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            
+                            <!-- <li><a href="contact.html">Contact</a></li> -->
                         </ul>
                     </div>
                     <div class="main-menu-wrapper__right">
@@ -176,7 +162,7 @@
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="main-menu-wrapper__right-contact-number">
-                                <a href="tel:92-666-888-0000">92 666 888 0000</a>
+                                <a href="tel:92-666-888-0000">0448 154 868</a>
                             </div>
                         </div>
                     </div>
@@ -220,8 +206,8 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
-                                        <p>welcome to Moniz Web agency</p>
-                                        <h2>Smart web <br> design agency</h2>
+                                        <p>Welcome to L-EVEN MEDIA</p>
+                                        <h2>Smart <br> Digital Agency</h2>
                                         <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
                                     </div>
                                 </div>
@@ -314,8 +300,8 @@
                     <div class="col-xl-6">
                         <div class="welcome-one__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">About company</span>
-                                <h2 class="section-title__title">We provide the best web services</h2>
+                                <span class="section-title__tagline">About L-Even Media</span>
+                                <h2 class="section-title__title">We provide the best digital agency services</h2>
                             </div>
                             <div class="welcome-one__solutions">
                                 <div class="welcome-one__solutions-single">
@@ -323,7 +309,7 @@
                                         <span class="icon-tick"></span>
                                     </div>
                                     <div class="welcome-one__solutions-text-box">
-                                        <p>Solution for small & <br> large businesses</p>
+                                        <p>Solutions for new companies</p>
                                     </div>
                                 </div>
                                 <div class="welcome-one__solutions-single">
@@ -331,15 +317,12 @@
                                         <span class="icon-tick"></span>
                                     </div>
                                     <div class="welcome-one__solutions-text-box">
-                                        <p>Solution for small & <br> large businesses</p>
+                                        <p>Solutions for all types of bussiness</p>
                                     </div>
                                 </div>
                             </div>
-                            <p class="welcome-one__right-text-1">There are many variations of passages of Lorem Ipsum
-                                available, but the majority have suffered alteration in some form, by injected humour,
-                                or randomised words.</p>
-                            <p class="welcome-one__right-text-2">You need to be sure there isn't anything embarrassing
-                                hidden in the middle of text. All the lorem ipsum generators on the Internet.</p>
+                            <p class="welcome-one__right-text-1">L-Even Media is a a company that is flexible to the needs of the consumers were we make your dreams come true. You tell us what you need and we will do the work. We will also alter your way of thinking  and point you in the correct direction so your company stands out from the rest.</p>
+                            <p class="welcome-one__right-text-2">While you leave your idea with us we will communicate your idea to our team to create the best design and service for you.</p>
                         </div>
                     </div>
                 </div>
@@ -347,43 +330,6 @@
         </section>
         <!--Welcome One End-->
 
-        <!--Counter One Start-->
-        <section class="counters-one">
-            <div class="container">
-                <ul class="counters-one__box list-unstyled">
-                    <li class="counter-one__single wow fadeInUp" data-wow-delay="100ms">
-                        <div class="counter-one__icon">
-                            <span class="icon-recommend"></span>
-                        </div>
-                        <h3 class="odometer" data-count="860">00</h3>
-                        <p class="counter-one__text">Projects completed</p>
-                    </li>
-                    <li class="counter-one__single wow fadeInUp" data-wow-delay="200ms">
-                        <div class="counter-one__icon">
-                            <span class="icon-recruit"></span>
-                        </div>
-                        <h3 class="odometer" data-count="50">00</h3>
-                        <p class="counter-one__text">Active clients</p>
-                    </li>
-                    <li class="counter-one__single wow fadeInUp" data-wow-delay="300ms">
-                        <div class="counter-one__icon">
-                            <span class="icon-coffee"></span>
-                        </div>
-                        <h3 class="odometer" data-count="93">00</h3>
-                        <p class="counter-one__text">Cups of coffee</p>
-                    </li>
-                    <li class="counter-one__single wow fadeInUp" data-wow-delay="400ms">
-                        <div class="counter-one__icon">
-                            <span class="icon-customer-review"></span>
-                        </div>
-                        <h3 class="odometer" data-count="970">00</h3>
-                        <p class="counter-one__text">Happy clients</p>
-                    </li>
-                    <li class="counter-one__shape wow fadeInUp" data-wow-delay="500ms"></li>
-                </ul>
-            </div>
-        </section>
-        <!--Counter One End-->
 
         <!--We Change Start-->
         <section class="we-change">
@@ -454,62 +400,6 @@
         </section>
         <!--We Change End-->
 
-        <!--We Make Start-->
-        <section class="we-make">
-            <div class="we-make-bg" style="background-image: url(assets/images/backgrounds/we-make-bg.jpg)"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7 col-lg-6">
-                        <div class="we-make__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Corporate business theme</span>
-                                <h2 class="section-title__title">We make the quality design & developments</h2>
-                            </div>
-                            <div class="we-make__person">
-                                <div class="we-make__person-img">
-                                    <img src="assets/images/resources/person-img-1.png" alt="">
-                                </div>
-                                <div class="we-make__person-text">
-                                    <p>John Smith</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-6">
-                        <div class="we-make__right">
-                            <div class="we-make__progress">
-                                <div class="we-make__progress-single">
-                                    <h4 class="we-make__progress-title">Web design</h4>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="90%">
-                                            <div class="count-text">90%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="we-make__progress-single">
-                                    <h4 class="we-make__progress-title">Web development</h4>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="46%">
-                                            <div class="count-text">46%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="we-make__progress-single">
-                                    <h4 class="we-make__progress-title">Web application</h4>
-                                    <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="38%">
-                                            <div class="count-text">38%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--We Make End-->
-
         <!--Services One Start-->
         <section class="services-one">
             <div class="services-one-bg" style="background-image: url(assets/images/backgrounds/services-one-bg.jpg)">
@@ -526,7 +416,7 @@
                             <div class="services-one__icon">
                                 <span class="icon-color-sample"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="website-design.html">Website design</a></h3>
+                            <h3 class="services-one__title"><a href="website-design.html">Graphic Design</a></h3>
                             <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
                                 elit sed do.</p>
                             <a href="website-design.html" class="service-one__arrow"><span
@@ -539,7 +429,7 @@
                             <div class="services-one__icon">
                                 <span class="icon-front-end"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-development.html">Web development</a></h3>
+                            <h3 class="services-one__title"><a href="web-development.html">Web Development</a></h3>
                             <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
                                 elit sed do.</p>
                             <a href="web-development.html" class="service-one__arrow"><span
@@ -552,7 +442,72 @@
                             <div class="services-one__icon">
                                 <span class="icon-online-shopping"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Web application</a></h3>
+                            <h3 class="services-one__title"><a href="web-application.html">Digital Marketing</a></h3>
+                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
+                                elit sed do.</p>
+                            <a href="web-application.html" class="service-one__arrow"><span
+                                    class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-online-shopping"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">App Development</a></h3>
+                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
+                                elit sed do.</p>
+                            <a href="web-application.html" class="service-one__arrow"><span
+                                    class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-online-shopping"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">SEO</a></h3>
+                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
+                                elit sed do.</p>
+                            <a href="web-application.html" class="service-one__arrow"><span
+                                    class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-online-shopping"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">Hosting</a></h3>
+                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
+                                elit sed do.</p>
+                            <a href="web-application.html" class="service-one__arrow"><span
+                                    class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-online-shopping"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">Branding</a></h3>
+                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
+                                elit sed do.</p>
+                            <a href="web-application.html" class="service-one__arrow"><span
+                                    class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-online-shopping"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">Social Media</a></h3>
                             <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
                                 elit sed do.</p>
                             <a href="web-application.html" class="service-one__arrow"><span
@@ -1137,8 +1092,7 @@
                                     America</p>
                                 <div class="footer-widget__contact-info">
                                     <p>
-                                        <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">92 666 888
-                                            0000</a>
+                                        <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
                                         <a href="mailto:needhelp@company.com"
                                             class="footer-widget__contact-mail">needhelp@company.com</a>
                                     </p>
