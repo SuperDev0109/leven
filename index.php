@@ -360,8 +360,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="website-design.html">Graphic Design</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="website-design.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -372,8 +370,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-development.html">Web Development</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-development.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -384,8 +380,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Digital Marketing</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -396,8 +390,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">App Development</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -408,8 +400,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">SEO</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -420,8 +410,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Hosting</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -432,8 +420,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Branding</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4">
@@ -444,8 +430,6 @@
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Social Media</a></h3>
                             <p class="services-one__text"></p>
-                            <a href="web-application.html" class="service-one__arrow"><span
-                                    class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                 </div>
