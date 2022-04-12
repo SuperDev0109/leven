@@ -86,19 +86,19 @@
                         </a>
                         <ul class="main-menu__list">
                             <li class="dropdown">
-                                <a href="#">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Services </a>
+                                <a href="/">Services </a>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Projects</a>
+                                <a href="/">Projects</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#">About</a>
+                                <a href="/">About</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Contact us</a>
+                                <a href="/">Contact us</a>
                             </li>
                             
                             <!-- <li><a href="contact.html">Contact</a></li> -->
@@ -359,8 +359,7 @@
                                 <span class="icon-color-sample"></span>
                             </div>
                             <h3 class="services-one__title"><a href="website-design.html">Graphic Design</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="website-design.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -372,8 +371,7 @@
                                 <span class="icon-front-end"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-development.html">Web Development</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-development.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -385,8 +383,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Digital Marketing</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -398,8 +395,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">App Development</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -411,8 +407,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">SEO</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -424,8 +419,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Hosting</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -437,8 +431,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Branding</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -450,8 +443,7 @@
                                 <span class="icon-online-shopping"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Social Media</a></h3>
-                            <p class="services-one__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                                elit sed do.</p>
+                            <p class="services-one__text"></p>
                             <a href="web-application.html" class="service-one__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
@@ -598,90 +590,6 @@
             </div>
         </section>
         <!--Video One End-->
-
-        <!--Brand Two-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 3
-                    },
-                    "767": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 4
-                    },
-                    "991": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 5
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 5
-                    }
-                }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand Two End-->
-
-        <!--CTA One Start-->
-        <section class="cta-one">
-            <div class="cta-one-bg" style="background-image: url(assets/images/backgrounds/cta-one-bg.jpg)"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="cta-one__inner">
-                            <p class="cta-one__tagline">We can help you stand out your business</p>
-                            <h2 class="cta-one__title">Website design services for <br> your businesses</h2>
-                            <a href="contact.html" class="thm-btn cta-one__btn thm-btn--dark--light-hover"><span>Free
-                                    consultation</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--CTA One End-->
 
         <!--Site Footer One Start-->
         <footer class="site-footer">
