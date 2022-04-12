@@ -314,7 +314,7 @@
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>some would argue, the best city in Australia - Sydney</p>
+                                                <p>Would argue, the best city in Australia - Sydney</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
@@ -558,15 +558,6 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="video-one__inner">
-                            <div class="video-one__link">
-                                <a href="https://www.youtube.com/watch?v=8DP4NgupAhI"
-                                    class="video-one__btn video-popup">
-                                    <div class="video-one__video-icon">
-                                        <span class="icon-play-button"></span>
-                                        <i class="ripple"></i>
-                                    </div>
-                                </a>
-                            </div>
                             <h2 class="video-one__text">We’re shaping the perfect <br> web solutions</h2>
                         </div>
                     </div>
