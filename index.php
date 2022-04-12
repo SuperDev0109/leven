@@ -86,71 +86,19 @@
                         </a>
                         <ul class="main-menu__list">
                             <li class="dropdown">
-                                <a href="index.html">Home</a>
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home one</a>
-                                    </li>
-                                    <li><a href="index2.html">Home two</a></li>
-                                    <li><a href="index3.html">Home three <span class="new-tag">new</span></a></li>
-                                    <li><a href="index-one-page.html">Home one page</a>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#">Header styles</a>
-                                        <ul>
-                                            <li><a href="index.html">Header one</a></li>
-                                            <li><a href="index2.html">Header two</a></li>
-                                            <li><a href="index3.html">Header three</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                                <a href="#">Home</a>
                             </li>
                             <li class="dropdown">
                                 <a href="#">Services </a>
-                                <ul>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="services-2.html">Services two <span class="new-tag">New</span></a></li>
-                                    <li><a href="services-3.html">Services three <span class="new-tag">New</span></a>
-                                    </li>
-                                    <li><a href="web-development.html">Web development</a></li>
-                                    <li><a href="website-design.html">Web design</a></li>
-                                    <li><a href="web-application.html">Web application</a></li>
-                                    <li><a href="content-writing.html">Content writing</a></li>
-                                    <li><a href="ui-ux-design.html">UI/UX designing</a></li>
-                                </ul>
                             </li>
                             <li class="dropdown">
                                 <a href="#">Projects</a>
-                                <ul>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="about-me.html">About me <span class="new-tag">new</span></a></li>
-                                    <li><a href="our-mission.html">Our mission <span class="new-tag">New</span></a></li>
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="testimonials.html">Testimonials <span class="new-tag">New</span></a>
-                                    </li>
-                                    <li><a href="testimonials-2.html">Testimonials two <span
-                                                class="new-tag">New</span></a></li>
-                                    <li><a href="faqs.html">FAQs</a></li>
-                                    <li><a href="404.html">404</a></li>
-                                </ul>
                             </li>
                             <li class="dropdown">
                                 <a href="#">About</a>
-                                <ul>
-                                    <li><a href="portfolio.html">Portfolio</a></li>
-                                    <li><a href="portfolio-detail.html">Portfolio details</a></li>
-                                    <li><a href="portfolio-detail-fullwidth.html">Portfolio details full</a></li>
-                                </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="products.html">Contact us</a>
-                                <ul>
-                                    <li><a href="products.html">Shop</a></li>
-                                    <li><a href="product-details.html">Product Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout Page</a></li>
-                                    <li><a href="login.html">Login Page</a></li>
-                                </ul>
+                                <a href="#">Contact us</a>
                             </li>
                             
                             <!-- <li><a href="contact.html">Contact</a></li> -->
@@ -186,9 +134,6 @@
     "navigation": {
         "nextEl": "#main-slider__swiper-button-next",
         "prevEl": "#main-slider__swiper-button-prev"
-    },
-    "autoplay": {
-        "delay": 5000
     }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -290,10 +235,10 @@
                                     <div class="welcome-one__shape-1"></div>
                                     <div class="welcome-one__shape-2"></div>
                                 </div>
-                                <div class="welcome-one__trusted">
+                                <!-- <div class="welcome-one__trusted">
                                     <p>Trusted by</p>
                                     <h2 class="odometer" data-count="4890">00</h2>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -517,107 +462,7 @@
         <!--Services One End-->
 
         <!--Portfolio One Start-->
-        <section class="portfolio-one">
-            <div class="portfolio-one__container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Recent work completed</span>
-                    <h2 class="section-title__title">Work showcase</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <ul class="portfolio-filter style1 post-filter has-dynamic-filters-counter list-unstyled">
-                            <li data-filter=".filter-item" class="active"><span class="filter-text">All</span></li>
-                            <li data-filter=".bra"><span class="filter-text">Branding</span></li>
-                            <li data-filter=".illus"><span class="filter-text">illustration</span></li>
-                            <li data-filter=".photo"><span class="filter-text">Photography</span></li>
-                            <li data-filter=".web"><span class="filter-text last-pd-none">Web design</span></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row filter-layout masonary-layout">
-                    <div class="col-xl-3 col-lg-6 col-md-6 filter-item bra illus web photo">
-                        <!--Portfolio One Single-->
-                        <div class="portfolio-one__single wow fadeInUp" data-wow-delay="100ms">
-                            <div class="portfolio-one__img">
-                                <img src="assets/images/resources/portfolio-1-1.jpg" alt="">
-                                <div class="portfolio-one__experience">
-                                    <div class="portfolio-one__web-design">
-                                        <p class="portfolio-one__web-design-title">Web design</p>
-                                    </div>
-                                    <div class="portfolio-one__fimlor">
-                                        <p class="portfolio-one__fimlor-title"><a href="portfolio-detail.html">Fimlor
-                                                Experience</a></p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-one__arrow">
-                                    <a href="portfolio-detail.html"><span class="icon-right-arrow"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 filter-item bra photo">
-                        <!--Portfolio One Single-->
-                        <div class="portfolio-one__single wow fadeInUp" data-wow-delay="200ms">
-                            <div class="portfolio-one__img">
-                                <img src="assets/images/resources/portfolio-1-2.jpg" alt="">
-                                <div class="portfolio-one__experience">
-                                    <div class="portfolio-one__web-design">
-                                        <p class="portfolio-one__web-design-title">Web design</p>
-                                    </div>
-                                    <div class="portfolio-one__fimlor">
-                                        <p class="portfolio-one__fimlor-title"><a href="portfolio-detail.html">Fimlor
-                                                Experience</a></p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-one__arrow">
-                                    <a href="portfolio-detail.html"><span class="icon-right-arrow"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 filter-item bra illus web">
-                        <!--Portfolio One Single-->
-                        <div class="portfolio-one__single mar-b-0 margin-bottom-30 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="portfolio-one__img">
-                                <img src="assets/images/resources/portfolio-1-3.jpg" alt="">
-                                <div class="portfolio-one__experience">
-                                    <div class="portfolio-one__web-design">
-                                        <p class="portfolio-one__web-design-title">Web design</p>
-                                    </div>
-                                    <div class="portfolio-one__fimlor">
-                                        <p class="portfolio-one__fimlor-title"><a href="portfolio-detail.html">Fimlor
-                                                Experience</a></p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-one__arrow">
-                                    <a href="portfolio-detail.html"><span class="icon-right-arrow"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 filter-item bra illus photo">
-                        <!--Portfolio One Single-->
-                        <div class="portfolio-one__single mar-b-0 wow fadeInUp" data-wow-delay="400ms">
-                            <div class="portfolio-one__img">
-                                <img src="assets/images/resources/portfolio-1-4.jpg" alt="">
-                                <div class="portfolio-one__experience">
-                                    <div class="portfolio-one__web-design">
-                                        <p class="portfolio-one__web-design-title">Web design</p>
-                                    </div>
-                                    <div class="portfolio-one__fimlor">
-                                        <p class="portfolio-one__fimlor-title"><a href="portfolio-detail.html">Fimlor
-                                                Experience</a></p>
-                                    </div>
-                                </div>
-                                <div class="portfolio-one__arrow">
-                                    <a href="portfolio-detail.html"><span class="icon-right-arrow"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <!--Portfolio One End-->
 
         <!--Testimonial One Start-->
@@ -628,7 +473,7 @@
                         <div class="testimonial-one__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Customer feedback</span>
-                                <h2 class="section-title__title">What they are talking about moniz?</h2>
+                                <h2 class="section-title__title">What they are saying about <br />E-Leven</h2>
                             </div>
                             <div class="testimonial-one__btn-box">
                                 <a href="about.html" class="thm-btn testimonial-one__btn"><span>All feedbacks</span></a>
@@ -642,30 +487,7 @@
 
                             <div class="swiper-container" id="testimonials-one__thumb">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__img-holder">
-                                            <img src="assets/images/testimonial/testimonials-1-1.png" alt="">
-                                            <div class="testimonial-one__quote">
 
-                                            </div>
-                                        </div>
-                                    </div><!-- /.swiper-slide -->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__img-holder">
-                                            <img src="assets/images/testimonial/testimonials-1-2.png" alt="">
-                                            <div class="testimonial-one__quote">
-
-                                            </div>
-                                        </div>
-                                    </div><!-- /.swiper-slide -->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__img-holder">
-                                            <img src="assets/images/testimonial/testimonials-1-3.png" alt="">
-                                            <div class="testimonial-one__quote">
-
-                                            </div>
-                                        </div>
-                                    </div><!-- /.swiper-slide -->
                                 </div><!-- /.swiper-wrapper -->
                             </div><!-- /#testimonials-one__thumb.swiper-container -->
 
@@ -674,40 +496,28 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="testimonial-one__conent-box">
-                                                <p class="testimonial-one__text">This is due to their excellent service,
-                                                    competitive pricing and customer support. It’s throughly refresing
-                                                    to
-                                                    get such a personal touch. Duis aute lorem ipsum is simply.</p>
+                                                <p class="testimonial-one__text">We used the team at L-EVEN MEDIA from start to stop. The team was easy to deal with and also provided solutions for my needs</p>
                                                 <div class="testimonial-one__client-details">
-                                                    <h4 class="testimonial-one__client-name">Aleesha brown</h4>
-                                                    <span class="testimonial-one__clinet-title">Satisfied
-                                                        customers</span>
+                                                    <h4 class="testimonial-one__client-name">Michael F</h4>
+                                                    <span class="testimonial-one__clinet-title">Painting Company</span>
                                                 </div>
                                             </div>
                                         </div><!-- /.swiper-slide -->
                                         <div class="swiper-slide">
                                             <div class="testimonial-one__conent-box">
-                                                <p class="testimonial-one__text">This is due to their excellent service,
-                                                    competitive pricing and customer support. It’s throughly refresing
-                                                    to
-                                                    get such a personal touch. Duis aute lorem ipsum is simply.</p>
+                                                <p class="testimonial-one__text">Thank you to the Team at L-EVEN MEDIA for the design work and marketing my real estate brand for the past years. You have been easy to deal with and also returned the results of leads.</p>
                                                 <div class="testimonial-one__client-details">
-                                                    <h4 class="testimonial-one__client-name">Aleesha brown</h4>
-                                                    <span class="testimonial-one__clinet-title">Satisfied
-                                                        customers</span>
+                                                    <h4 class="testimonial-one__client-name">Monique L</h4>
+                                                    <span class="testimonial-one__clinet-title">Real Estate Agent</span>
                                                 </div>
                                             </div>
                                         </div><!-- /.swiper-slide -->
                                         <div class="swiper-slide">
                                             <div class="testimonial-one__conent-box">
-                                                <p class="testimonial-one__text">This is due to their excellent service,
-                                                    competitive pricing and customer support. It’s throughly refresing
-                                                    to
-                                                    get such a personal touch. Duis aute lorem ipsum is simply.</p>
+                                                <p class="testimonial-one__text">E-LEVEN MEDIA really understood my requirements and took my time seriously. I was able to have my website completed in a timely fashion and well within my budget</p>
                                                 <div class="testimonial-one__client-details">
-                                                    <h4 class="testimonial-one__client-name">Aleesha brown</h4>
-                                                    <span class="testimonial-one__clinet-title">Satisfied
-                                                        customers</span>
+                                                    <h4 class="testimonial-one__client-name">Daniel K</h4>
+                                                    <span class="testimonial-one__clinet-title">Finance</span>
                                                 </div>
                                             </div>
                                         </div><!-- /.swiper-slide -->
@@ -788,181 +598,6 @@
             </div>
         </section>
         <!--Video One End-->
-
-        <!--Reasons One Start-->
-        <section class="reasons-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4">
-                        <div class="reasons-one__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Our benefits</span>
-                                <h2 class="section-title__title">Reasons why we are best</h2>
-                            </div>
-                            <ul class="list-unstyled reasons-one__icon-box">
-                                <li>
-                                    <span class="icon-training"></span>
-                                    <p class="reasons-one__text">The best user interfaces</p>
-                                </li>
-                                <li>
-                                    <span class="icon-strategy"></span>
-                                    <p class="reasons-one__text">Quick smooth web development</p>
-                                </li>
-                            </ul>
-                            <p class="reasons-one__text-1">Tincidunt elit magnis nulla facilisis sagittis maecenas.
-                                sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo
-                                orci not dong right.</p>
-                            <a href="about.html" class="thm-btn"><span>Discover more</span></a><!-- /.thm-btn -->
-                        </div>
-                    </div>
-                    <div class="col-xl-8">
-                        <div class="reasons-one__img-box">
-                            <div class="reasons-one-img-box-bg"></div>
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-6 col-md-6">
-                                    <div class="reasons-one__img-one">
-                                        <img src="assets/images/resources/reasons-one-img-1.jpg" alt="">
-                                        <div class="reasons-one__shape-1"></div>
-                                        <div class="reasons-one__shape-2"></div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6">
-                                    <div class="reasons-one__img-two">
-                                        <img src="assets/images/resources/reasons-one-img-3.jpg" alt="">
-                                    </div>
-                                    <div class="reasons-one__img-three reasons-one__img-two">
-                                        <img src="assets/images/resources/reasons-one-img-2.jpg" alt="">
-                                        <div class="reasons-one__shape-3"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Reasons One End-->
-
-        <!--Blog One Start-->
-        <section class="blog-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Recent work completed</span>
-                    <h2 class="section-title__title">Latest from the blog</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4">
-                        <!--Blog One Single-->
-                        <div class="blog-one__single wow fadeInUp" data-wow-delay="100ms">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                    <a href="blog-details.html">
-                                        <span class="blog-one__plus"></span>
-                                    </a>
-                                </div>
-                                <div class="blog-one__date-box">
-                                    <p><span>20</span> May</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="blog-details.html"><i class="far fa-user-circle"></i> By admin</a></li>
-                                    <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </li>
-                                </ul>
-                                <h3 class="blog-one__title">
-                                    <a href="blog-details.html">Basic rule of running web agency business</a>
-                                </h3>
-                                <p class="blog-one__text">Lorem ipsum is simply is text used by copytyping refreshing.
-                                </p>
-                                <div class="blog-one__bottom">
-                                    <div class="blog-one__read-btn">
-                                        <a href="blog-details.html">Read more</a>
-                                    </div>
-                                    <div class="blog-one__arrow">
-                                        <a href="blog-details.html"><span class="icon-right-arrow"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4">
-                        <!--Blog One Single-->
-                        <div class="blog-one__single wow fadeInUp" data-wow-delay="200ms">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                    <a href="blog-details.html">
-                                        <span class="blog-one__plus"></span>
-                                    </a>
-                                </div>
-                                <div class="blog-one__date-box">
-                                    <p><span>20</span> May</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="blog-details.html"><i class="far fa-user-circle"></i> By admin</a></li>
-                                    <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </li>
-                                </ul>
-                                <h3 class="blog-one__title">
-                                    <a href="blog-details.html">Leverage frameworks to provide a robust</a>
-                                </h3>
-                                <p class="blog-one__text">Lorem ipsum is simply is text used by copytyping refreshing.
-                                </p>
-                                <div class="blog-one__bottom">
-                                    <div class="blog-one__read-btn">
-                                        <a href="blog-details.html">Read more</a>
-                                    </div>
-                                    <div class="blog-one__arrow">
-                                        <a href="blog-details.html"><span class="icon-right-arrow"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4">
-                        <!--Blog One Single-->
-                        <div class="blog-one__single wow fadeInUp" data-wow-delay="300ms">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                    <a href="blog-details.html">
-                                        <span class="blog-one__plus"></span>
-                                    </a>
-                                </div>
-                                <div class="blog-one__date-box">
-                                    <p><span>20</span> May</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="blog-details.html"><i class="far fa-user-circle"></i> By admin</a></li>
-                                    <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </li>
-                                </ul>
-                                <h3 class="blog-one__title">
-                                    <a href="blog-details.html">Organically grow the holistic world view of</a>
-                                </h3>
-                                <p class="blog-one__text">Lorem ipsum is simply is text used by copytyping refreshing.
-                                </p>
-                                <div class="blog-one__bottom">
-                                    <div class="blog-one__read-btn">
-                                        <a href="blog-details.html">Read more</a>
-                                    </div>
-                                    <div class="blog-one__arrow">
-                                        <a href="blog-details.html"><span class="icon-right-arrow"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Blog One End-->
 
         <!--Brand Two-->
         <section class="brand-one">
@@ -1055,7 +690,7 @@
                     style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg)"></div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
                                     <a href="index.html">
@@ -1069,9 +704,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <!-- <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__explore clearfix">
-                                <!-- <h3 class="footer-widget__title">Explore</h3> -->
                                 <ul class="footer-widget__explore-list list-unstyled">
                                     <li><a href="about.html">About</a></li>
                                     <li><a href="team.html">Meet our team</a></li>
@@ -1080,8 +714,8 @@
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        </div> -->
+                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms" style="padding: 25px 0 0 50px">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
                                 <!-- <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
@@ -1095,7 +729,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <!-- <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__newsletter">
                                 <h3 class="footer-widget__title">Sign up for newsletter</h3>
                                 <form class="footer-widget__newsletter-form">
@@ -1114,7 +748,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
