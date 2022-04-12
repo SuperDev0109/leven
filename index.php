@@ -345,34 +345,31 @@
                                 <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                                     <div class="accrodion active">
                                         <div class="accrodion-title">
-                                            <h4>Few resons why you should choose us</h4>
+                                            <h4>Can you help me come up with a business name?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum
-                                                    leo ligula, vitae commodo nisl.</p>
+                                                <p>Many start ups turn to us for a range of services including coming up with their name</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-title">
-                                            <h4>Few resons why you should choose us</h4>
+                                            <h4>Do you cater to all budgets?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum
-                                                    leo ligula, vitae commodo nisl.</p>
+                                                <p>Certainly do! We love helping small business get off the ground</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion last-chiled">
                                         <div class="accrodion-title">
-                                            <h4>Few resons why you should choose us</h4>
+                                            <h4>Are you based in Australia ?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum
-                                                    leo ligula, vitae commodo nisl.</p>
+                                                <p>some would argue, the best city in Australia - Sydney</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
