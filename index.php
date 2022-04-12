@@ -1058,21 +1058,20 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="index.html">
+                                        <img src="assets/custom/img/logo.png" alt="">
+                                    </a>
                                 </div>
-                                <p class="footer-widget__about-text">Welcome to our website design agency. Lore ipsum
-                                    simply text amet cing elit.</p>
+                                <p class="footer-widget__about-text">L-Even Media is a a company that is flexible to the needs of the consumers were we make your dreams come true</p>
                                 <div class="footer-widget__about-social-list">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#" class="clr-fb"><i class="fab fa-facebook"></i></a>
-                                    <a href="#" class="clr-dri"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#" class="clr-ins"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__explore clearfix">
-                                <h3 class="footer-widget__title">Explore</h3>
+                                <!-- <h3 class="footer-widget__title">Explore</h3> -->
                                 <ul class="footer-widget__explore-list list-unstyled">
                                     <li><a href="about.html">About</a></li>
                                     <li><a href="team.html">Meet our team</a></li>
@@ -1085,8 +1084,8 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
-                                <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
-                                    America</p>
+                                <!-- <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
+                                    America</p> -->
                                 <div class="footer-widget__contact-info">
                                     <p>
                                         <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
@@ -1124,8 +1123,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer-bottom__inner">
-                                <p class="site-footer-bottom__copy-right">© Copyright 2021 by <a
-                                        href="#">Layerdrops.com</a></p>
+                                <p class="site-footer-bottom__copy-right">Powered by L-Even Media</p>
                             </div>
                         </div>
                     </div>
@@ -1164,9 +1162,7 @@
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
