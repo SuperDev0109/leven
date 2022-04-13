@@ -174,7 +174,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
-                                        <p>welcome to Moniz Web agency</p>
+                                        <p>Welcome to L-EVEN MEDIA</p>
                                         <h2>Smart web <br> design agency</h2>
                                         <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
                                     </div>
@@ -197,7 +197,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="main-slider__content">
-                                        <p>welcome to Moniz Web agency</p>
+                                        <p>Welcome to L-EVEN MEDIA</p>
                                         <h2>Smart web <br> design agency</h2>
                                         <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
                                     </div>
@@ -670,7 +670,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@moniz.com</a>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@leven.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
