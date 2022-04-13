@@ -159,65 +159,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);">
-                        </div>
-
-                        <div class="image-layer-overlay"></div>
-                        <div class="main-slider-shape-1"></div>
-                        <div class="main-slider-shape-2"></div>
-                        <div class="main-slider-shape-3"></div>
-                        <div class="main-slider-shape-4"></div>
-                        <!-- /.image-layer -->
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="main-slider__content">
-                                        <p>Welcome to L-EVEN MEDIA</p>
-                                        <h2>Smart web <br> design agency</h2>
-                                        <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);">
-                        </div>
-
-                        <div class="image-layer-overlay"></div>
-                        <div class="main-slider-shape-1"></div>
-                        <div class="main-slider-shape-2"></div>
-                        <div class="main-slider-shape-3"></div>
-                        <div class="main-slider-shape-4"></div>
-                        <!-- /.image-layer -->
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="main-slider__content">
-                                        <p>Welcome to L-EVEN MEDIA</p>
-                                        <h2>Smart web <br> design agency</h2>
-                                        <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- If we need navigation buttons -->
-                <div class="slider-bottom-box clearfix">
-
-                    <div class="main-slider__nav">
-                        <div class="swiper-button-prev" id="main-slider__swiper-button-next"><i
-                                class="icon-right-arrow icon-left-arrow"></i>
-                        </div>
-                        <div class="swiper-button-next" id="main-slider__swiper-button-prev"><i
-                                class="icon-right-arrow"></i>
-                        </div>
-                    </div>
-                    <div class="swiper-pagination" id="main-slider-pagination"></div>
                 </div>
             </div>
         </section>
@@ -451,10 +392,6 @@
                                 <span class="section-title__tagline">Customer feedback</span>
                                 <h2 class="section-title__title">What they are saying about <br />E-Leven</h2>
                             </div>
-                            <div class="testimonial-one__btn-box">
-                                <a href="about.html" class="thm-btn testimonial-one__btn"><span>All feedbacks</span></a>
-                                <div class="testimonial-one__btn-shape"></div>
-                            </div>
                         </div>
                     </div>
                     <div class="col-xl-8 col-lg-7">
@@ -524,9 +461,6 @@
                                         <p>We’re committed to create <br> a change that matters</p>
                                     </div>
                                 </div>
-                                <div class="two-boxes__arrow">
-                                    <a href="contact.html"><span class="icon-right-arrow"></span></a>
-                                </div>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6">
@@ -536,11 +470,8 @@
                                         <span class="icon-graphic-design"></span>
                                     </div>
                                     <div class="two-boxes__text">
-                                        <p>We’re committed to create <br> a change that matters</p>
+                                        <p>Our Focus is your needs</p>
                                     </div>
-                                </div>
-                                <div class="two-boxes__arrow">
-                                    <a href="about.html"><span class="icon-right-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -573,7 +504,7 @@
                     style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg)"></div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
                                     <a href="index.html">
@@ -598,7 +529,7 @@
                                 </ul>
                             </div>
                         </div> -->
-                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms" style="padding: 25px 0 0 50px">
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms" style="padding: 25px 0 0 50px">
                             <div class="footer-widget__column footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3>
                                 <!-- <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
@@ -612,7 +543,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__newsletter">
                                 <h3 class="footer-widget__title">Sign up for newsletter</h3>
                                 <form class="footer-widget__newsletter-form">
@@ -631,7 +562,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
