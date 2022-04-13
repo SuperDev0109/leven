@@ -537,13 +537,13 @@
                                 <div class="footer-widget__contact-info">
                                     <p>
                                         <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
-                                        <a href="mailto:needhelp@company.com"
-                                            class="footer-widget__contact-mail">needhelp@company.com</a>
+                                        <a href="mailto:info@levenmedia.com"
+                                            class="footer-widget__contact-mail">info@levenmedia.com</a>
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="col-xl-4 col-lg-12 col-md-12 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__newsletter">
                                 <h3 class="footer-widget__title">Sign up for newsletter</h3>
                                 <form class="footer-widget__newsletter-form">
@@ -601,7 +601,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@leven.com</a>
+                    <a href="mailto:info@levenmedia.com">info@levenmedia.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
