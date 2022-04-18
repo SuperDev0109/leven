@@ -84,21 +84,24 @@
                         <a href="#" class="mobile-nav__toggler">
                             <span></span>
                         </a>
-                        <ul class="main-menu__list">
-                            <li class="dropdown">
-                                <a href="/">Home</a>
+                        <ul class="main-menu__list navItemParent">
+                            <li>
+                                <a href="#home_section">Home</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="/">Services </a>
+                            <li>
+                                <a href="#about_section">About</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="/">Projects</a>
+                            <li>
+                                <a href="#faq_section">FAQ</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="/">About</a>
+                            <li>
+                                <a href="#service_section">Services </a>
                             </li>
-                            <li class="dropdown">
-                                <a href="/">Contact us</a>
+                            <li>
+                                <a href="#project_section">Projects</a>
+                            </li>
+                            <li>
+                                <a href="#contact_section">Contact us</a>
                             </li>
                             
                             <!-- <li><a href="contact.html">Contact</a></li> -->
@@ -123,7 +126,7 @@
         </div><!-- /.stricky-header -->
 
         <!-- Banner One Start -->
-        <section class="main-slider">
+        <section class="main-slider" id="home_section">
             <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
     "effect": "fade",
      "pagination": {
@@ -165,7 +168,7 @@
         <!--Banner One End-->
 
         <!--Welcome One Start-->
-        <section class="welcome-one">
+        <section class="welcome-one" id="about_section">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">
@@ -218,7 +221,7 @@
 
 
         <!--We Change Start-->
-        <section class="we-change">
+        <section class="we-change" id="faq_section">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">
@@ -284,7 +287,7 @@
         <!--We Change End-->
 
         <!--Services One Start-->
-        <section class="services-one">
+        <section class="services-one" id="service_section">
             <div class="services-one-bg" style="background-image: url(assets/images/backgrounds/services-one-bg.jpg)">
             </div>
             <div class="container">
@@ -327,7 +330,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__icon">
-                                <span class="icon-online-shopping"></span>
+                                <span class="icon-development"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">App Development</a></h3>
                             <p class="services-one__text"></p>
@@ -337,7 +340,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__icon">
-                                <span class="icon-online-shopping"></span>
+                                <span class="icon-recommend"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">SEO</a></h3>
                             <p class="services-one__text"></p>
@@ -347,7 +350,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__icon">
-                                <span class="icon-online-shopping"></span>
+                                <span class="icon-training"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Hosting</a></h3>
                             <p class="services-one__text"></p>
@@ -357,7 +360,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__icon">
-                                <span class="icon-online-shopping"></span>
+                                <span class="icon-graphic-design"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Branding</a></h3>
                             <p class="services-one__text"></p>
@@ -367,9 +370,19 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__icon">
-                                <span class="icon-online-shopping"></span>
+                                <span class="icon-recruit"></span>
                             </div>
                             <h3 class="services-one__title"><a href="web-application.html">Social Media</a></h3>
+                            <p class="services-one__text"></p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
+                            <div class="services-one__icon">
+                                <span class="icon-web-design"></span>
+                            </div>
+                            <h3 class="services-one__title"><a href="web-application.html">Photography</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -383,7 +396,7 @@
         <!--Portfolio One End-->
 
         <!--Testimonial One Start-->
-        <section class="testimonial-one">
+        <section class="testimonial-one" id="project_section">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-4 col-lg-5">
@@ -498,13 +511,13 @@
         <!--Video One End-->
 
         <!--Site Footer One Start-->
-        <footer class="site-footer">
+        <footer class="site-footer" id="contact_section">
             <div class="site-footer__top">
                 <div class="site-footer-top-bg"
                     style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg)"></div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="col-xl-5 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
                                     <a href="index.html">
@@ -529,21 +542,7 @@
                                 </ul>
                             </div>
                         </div> -->
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms" style="padding: 25px 0 0 50px">
-                            <div class="footer-widget__column footer-widget__contact">
-                                <h3 class="footer-widget__title">Contact</h3>
-                                <!-- <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
-                                    America</p> -->
-                                <div class="footer-widget__contact-info">
-                                    <p>
-                                        <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
-                                        <a href="mailto:info@levenmedia.com"
-                                            class="footer-widget__contact-mail">info@levenmedia.com</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-12 col-md-12 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__newsletter">
                                 <h3 class="footer-widget__title">Sign up for newsletter</h3>
                                 <form class="footer-widget__newsletter-form">
@@ -560,6 +559,21 @@
                                     <div class="footer-widget__newsletter-bottom-text">
                                         <p>I agree to all terms and policies</p>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-12 col-md-12 wow fadeInUp" data-wow-delay="400ms" style="padding: 50px 0 0 50px">
+                            <div class="footer-widget__column footer-widget__contact">
+                                <h3 class="footer-widget__title">Contact</h3>
+                                <!-- <p class="footer-widget__contact-text">66 Broklyn Street New York United States of
+                                    America</p> -->
+                                <div class="footer-widget__contact-info">
+                                    <p>
+                                        <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
+                                        <a href="mailto:info@levenmedia.com"
+                                            class="footer-widget__contact-mail">info@levenmedia.com</a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -672,9 +686,6 @@
 
     <!-- template js -->
     <script src="assets/js/moniz.js"></script>
-
-
-
 </body>
 
 </html>

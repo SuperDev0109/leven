@@ -762,8 +762,12 @@ body.boxed-wrapper {
 .main-menu .main-menu__list > li:hover > a::before,
 .stricky-header .main-menu__list > li.current > a::before,
 .stricky-header .main-menu__list > li:hover > a::before {
-  -webkit-transform: scaleY(1) translateX(-50%);
-          transform: scaleY(1) translateX(-50%);
+  /* -webkit-transform: scaleY(1) translateX(-50%); */
+          /* transform: scaleY(1) translateX(-50%); */
+}
+
+.main-menu__list li a:hover {
+  color: #fc653c !important;
 }
 
 .main-menu .main-menu__list > li.current > a::before {
@@ -2114,11 +2118,16 @@ body.boxed-wrapper {
   transform: translateY(100px);
   -webkit-transition-delay: 2500ms;
   transition-delay: 2500ms;
-  -webkit-transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+  -webkit-transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease,
+ -webkit-transform 2000ms ease;
+  transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
 }
 
 .main-slider .swiper-slide-active .image-layer {
@@ -4426,7 +4435,7 @@ body.boxed-wrapper {
 .footer-widget__newsletter {
   position: relative;
   display: block;
-  background-color: #17171a;
+  /* background-color: #17171a; */
   border-radius: var(--moniz-border-radius, 10px);
   padding: 45px 50px 41px;
   margin-left: -30px;
