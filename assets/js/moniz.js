@@ -302,7 +302,7 @@
 
   if ($(".scroll-to-target").length) {
     $(".scroll-to-target").on("click", function () {
-      var target = $(this).attr("data-target");
+      var target = $(this).attr("data-target")
       // animate
       $("html, body").animate(
         {

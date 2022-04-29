@@ -75,16 +75,16 @@
                         </div> -->
                         <div class="main-menu-wrapper__social">
                             <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
-                            <a href="#" class="clr-fb"><i class="fab fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/L-Even-Media-111979141486410/" class="clr-fb"><i class="fab fa-facebook"></i></a>
                             <!-- <a href="#" class="clr-dri"><i class="fab fa-pinterest-p"></i></a> -->
-                            <a href="#" class="clr-ins"><i class="fab fa-instagram"></i></a>
+                            <a href="https://instagram.com/leven_media?igshid=YmMyMTA2M2Y=" class="clr-ins"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="main-menu-wrapper__main-menu">
                         <a href="#" class="mobile-nav__toggler">
                             <span></span>
                         </a>
-                        <ul class="main-menu__list navItemParent">
+                        <ul class="main-menu__list">
                             <li>
                                 <a href="#home_section">Home</a>
                             </li>
@@ -98,7 +98,7 @@
                                 <a href="#service_section">Services </a>
                             </li>
                             <li>
-                                <a href="#project_section">Projects</a>
+                                <a href="#project_section">Testimonials</a>
                             </li>
                             <li>
                                 <a href="#contact_section">Contact us</a>
@@ -113,7 +113,7 @@
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="main-menu-wrapper__right-contact-number">
-                                <a href="tel:92-666-888-0000">0448 154 868</a>
+                                <a href="tel:0448 154 868">0448 154 868</a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                                     <div class="main-slider__content">
                                         <p>Welcome to L-EVEN MEDIA</p>
                                         <h2>Smart <br> Digital Agency</h2>
-                                        <a href="contact.html" class="thm-btn"><span>Free consultation</span></a>
+                                        <a href="#contact_section" class="thm-btn"><span>Free consultation</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -210,7 +210,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <p class="welcome-one__right-text-1">L-Even Media is a a company that is flexible to the needs of the consumers were we make your dreams come true. You tell us what you need and we will do the work. We will also alter your way of thinking  and point you in the correct direction so your company stands out from the rest.</p>
+                            <p class="welcome-one__right-text-1">L-Even Media is a company that tailors to meet the needs of our clients. We’re here to help you meet your business  dreams and leave the digital footprint your business deserves.</p>
+                            <p class="welcome-one__right-text-1">You tell us what you need and we do the work. Our goal is to deliver a client-centered service that facilitates  complete control for our client over how their business is represented on the online space.</p>
+                            <p class="welcome-one__right-text-1">Allow us to help you re-model your business with our expert experience the way you want to do it.
+Leave your ideas with us and our team will get to work to create the best design for your business.</p>
                             <p class="welcome-one__right-text-2">While you leave your idea with us we will communicate your idea to our team to create the best design and service for you.</p>
                         </div>
                     </div>
@@ -248,7 +251,7 @@
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Certainly do! We love helping small business get off the ground</p>
+                                                <p>Certainly do! We love helping small businesses get off the ground and larger bussiness too</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
@@ -502,7 +505,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="video-one__inner">
-                            <h2 class="video-one__text">We’re shaping the perfect <br> web solutions</h2>
+                            <h2 class="video-one__text">Give your business the digital <br> footprint it deserves</h2>
                         </div>
                     </div>
                 </div>
@@ -510,8 +513,59 @@
         </section>
         <!--Video One End-->
 
+        <!--Contact Page Start-->
+        <section class="contact-page" id="contact_section">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Contact with us</span>
+                    <h2 class="section-title__title">Write us a message</h2>
+                </div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="contact-page__form">
+                            <form action="assets/inc/sendemail.php" class="comment-one__form contact-form-validated"
+                                novalidate="novalidate">
+                                <div class="row">
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Your name" name="name">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Email Address" name="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Phone number" name="phone">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Subject" name="Subject">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="comment-form__input-box">
+                                            <textarea name="message" placeholder="Write Message"></textarea>
+                                        </div>
+                                        <button type="submit" class="thm-btn faqs-contact__btn"><span>Send a
+                                                message</span></button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Contact Page End-->
+
         <!--Site Footer One Start-->
-        <footer class="site-footer" id="contact_section">
+        <footer class="site-footer">
             <div class="site-footer__top">
                 <div class="site-footer-top-bg"
                     style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg)"></div>
@@ -524,10 +578,10 @@
                                         <img src="assets/custom/img/logo.png" alt="">
                                     </a>
                                 </div>
-                                <p class="footer-widget__about-text">L-Even Media is a a company that is flexible to the needs of the consumers were we make your dreams come true</p>
+                                <p class="footer-widget__about-text">L-Even Media is a company that tailors to meet the needs of our clients. We’re here to help you meet your business  dreams and leave the digital footprint your business deserves.</p>
                                 <div class="footer-widget__about-social-list">
-                                    <a href="#" class="clr-fb"><i class="fab fa-facebook"></i></a>
-                                    <a href="#" class="clr-ins"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/L-Even-Media-111979141486410/" class="clr-fb"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://instagram.com/leven_media?igshid=YmMyMTA2M2Y=" class="clr-ins"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -570,7 +624,7 @@
                                     America</p> -->
                                 <div class="footer-widget__contact-info">
                                     <p>
-                                        <a href="tel:92-666-888-0000" class="footer-widget__contact-phone">0448 154 868</a>
+                                        <a href="tel:0448 154 868" class="footer-widget__contact-phone">0448 154 868</a>
                                         <a href="mailto:info@levenmedia.com"
                                             class="footer-widget__contact-mail">info@levenmedia.com</a>
                                     </p>
@@ -619,13 +673,13 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:0448 154 868">0448 154 868</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="https://www.facebook.com/L-Even-Media-111979141486410/" class="fab fa-facebook-square"></a>
+                    <a href="https://instagram.com/leven_media?igshid=YmMyMTA2M2Y=" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 
