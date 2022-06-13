@@ -305,7 +305,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-color-sample"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="website-design.html">Graphic Design</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank">Graphic Design</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -315,7 +315,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-front-end"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-development.html">Web Development</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank">Web Development</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -325,7 +325,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-online-shopping"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Digital Marketing</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >Digital Marketing</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -335,7 +335,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-development"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">App Development</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >App Development</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -345,7 +345,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-recommend"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">SEO</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >SEO</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -355,7 +355,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-training"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Hosting</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >Hosting</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -365,7 +365,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-graphic-design"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Branding</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >Branding</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -375,7 +375,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-recruit"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Social Media</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >Social Media</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
@@ -385,7 +385,7 @@ Leave your ideas with us and our team will get to work to create the best design
                             <div class="services-one__icon">
                                 <span class="icon-web-design"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="web-application.html">Photography</a></h3>
+                            <h3 class="services-one__title"><a href="service.php" target="_blank" >Photography</a></h3>
                             <p class="services-one__text"></p>
                         </div>
                     </div>
